@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My First HTML Page</title>
+</head>
+<body>
+<h1> Welcome to my webpage</h1>
+<p>In this course Im building web pages using current technologies including ,but not limited to HTML, Cascading Style Sheets (CSS), and JavaScript. The focus on the course is developing a foundation in web programming. In this section we are creating our first HTML page and start learning prompt engineering skills. Everything we do in this semester will live in a single GitHub repository that becomes are professional portfolio. </p>
+
+<p>I'm excited to learn <strong> How to properly program computers and softwares.</strong> this semester.</p>
+
+<a href="https://www.tri-c.edu/programs/information-technology/" target="_blank">
+Visit Tri-C IT Programs
+</a>
+<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/09/Teenage_Mutant_Ninja_Turtles_film_July_2014_poster.jpg" alt="Image of my favorite childhood kid show.">
+</body>
+</html>
